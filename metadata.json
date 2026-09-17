@@ -1,0 +1,6 @@
+{
+  "name": "Vinux",
+  "description": "Stream full songs from your favorite artists, artist & style radios, playlists, favorites, offline downloads and synced lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
